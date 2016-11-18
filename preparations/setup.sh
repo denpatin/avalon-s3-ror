@@ -2,7 +2,6 @@
 
 # Updating the system
 sudo apt-get -y update
-
 # Installing necessary software
 sudo apt-get -y install curl nodejs git
 
@@ -10,20 +9,14 @@ sudo apt-get -y install curl nodejs git
 # Importing the GPG key
 command curl -sSL https://rvm.io/mpapis.asc | gpg --import -
 # Downloading and installing RVM
-\curl -sSL https://get.rvm.io | bash -s stable
-# Adding the current user to the rvm group
-sudo usermod -a -G rvm ubuntu
+curl -sSL https://get.rvm.io | bash -s stable
 # Making RVM executable
-source /etc/profile.d/rvm.sh
-# Switching to the non-interactive mode
-bash --login
+source $HOME/.rvm/scripts/rvm
 # Installing the latest Ruby
-rvm install 2.3.1
-# Making Ruby v2.3.1 default
-rvm use --default 2.3.1
+rvm use --default --install 2.3.1
 # Installing necessary gems
 gem install bundler --no-ri --no-rdoc
-gem install rails
+gem install rails --no-ri --no-rdoc
 
 # Installing Postgres
 sudo apt-get -y install postgresql postgresql-contrib postgresql-server-dev-9.5
