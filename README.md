@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td align="center">2</td>
-<td align="center"></td>
+<td align="center"><a href="lab2.md">тезисы</a></td>
 <td align="center">22.11</td>
 <td align="center">23.11</td>
 <td align="center">21.11</td>
