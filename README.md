@@ -23,7 +23,7 @@
 </tr>
 <tr>
 <td align="center">3</td>
-<td align="center"></td>
+<td align="center"><a href="lab3.md">тезисы</a></td>
 <td align="center">01.12</td>
 <td align="center">01.12</td>
 <td align="center">02.12</td>
