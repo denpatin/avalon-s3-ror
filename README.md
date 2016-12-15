@@ -46,22 +46,22 @@
 <td align="center">6</td>
 <td align="center"></td>
 <td align="center">13.12</td>
-<td align="center">13.12</td>
-<td align="center">14.12</td>
+<td align="center">15.12</td>
+<td align="center">16.12</td>
 </tr>
 <tr>
 <td align="center">7</td>
 <td align="center"></td>
 <td align="center">15.12</td>
-<td align="center">15.12</td>
-<td align="center">16.12</td>
+<td align="center">17.12</td>
+<td align="center">18.12</td>
 </tr>
 <tr>
 <td align="center">8</td>
 <td align="center"></td>
 <td align="center">20.12</td>
 <td align="center">20.12</td>
-<td align="center">21.12</td>
+<td align="center">22.12</td>
 </tr>
 </tbody>
 </table>
