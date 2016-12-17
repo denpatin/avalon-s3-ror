@@ -51,7 +51,7 @@
 </tr>
 <tr>
 <td align="center">7</td>
-<td align="center"></td>
+<td align="center"><a href="lab7.md">тезисы</a></td>
 <td align="center">15.12</td>
 <td align="center">17.12</td>
 <td align="center">18.12</td>
